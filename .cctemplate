@@ -1,0 +1,23 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "app",
+            "name": "all tsx and ts files for next.js app",
+            "description": "A next.js app demonstrating vercel-ai sdk and chat"
+        },
+        {
+            "path": "componenets",
+            "name": "react next.js components",
+            "description": "UI components"
+        },
+        {
+            "path": "lib",
+            "name": "hooks chat utils",
+            "description": "hooks chat utils"
+        }
+
+    ]
+}
